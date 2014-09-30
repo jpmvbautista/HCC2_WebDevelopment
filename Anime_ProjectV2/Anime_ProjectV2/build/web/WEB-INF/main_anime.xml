@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this template, choose Tools | Templates
+and open the template in the editor.
+-->
+
+<anime>
+	<category>
+		<animation>
+			<title id="1">1) One Piece</title>
+		        <genre id="1">Action, Adventure, Comedy </genre>
+			<episodes id="1">Episode: On-going Episodes
+				<summary id="1">22 years ago, the legendary pirate Gol D. Roger, departed the world leaving behind the treasure One Piece for any who are worthy enough to find it. He who finds this treasure would be granted the title "Pirate King". Amazed by this news, the young Monkey D. Luffy sets out on a journey to find a group of pirate comrades, towards his goal of attaining One Piece and becoming the Pirate King. Based on the manga by Oda Eiichiro.
+					<rating id="1">Rate: 10/10</rating>
+				</summary>
+			</episodes>
+		</animation>
+	</category>
+	
+	
+	
+	<category>
+		<animation>
+			<title id="2">2) Code Geass</title>
+			<genre id="2">Action, Drama, School, Supernatural, Military, Mecha</genre>
+			<episodes id="2"> Episode: 50 Episodes
+				<summary id="2">After the invasion of Japan by the Brittannian Empire, the country is renamed to "Area 11". The young Lelouch, a Brittannian student living in Japan, accidentally gets caught up in a local terrorist attack against Brittannia, reuniting with his childhood friend Suzaku as well as meeting the mysterious girl C.C. Cornered in a life and death situation, Lelouch accepts a power C.C. offers to him, the ability to order anyone to do anything. Harboring a thirst for revenge against the Brittanian Empire for their actions against his family, Lelouch wages war against the Empire. Using his newfound power and tactical ability, Lelouch goes under the alias Zero in attempts to fulfill his childhood vow, to destroy Brittannia!						
+                                    <rating id="2">Rate: 9.6</rating>
+				</summary>
+			</episodes>
+		</animation>
+	</category>
+	
+	<category>
+		<animation>
+			<title id="3">3) Attack of the Titans</title>
+			<genre id="3">Action, Drama, Fantasy, Super Power</genre>
+			<episodes id="3"> Episode: 25 Episodes
+				<summary id="3">Several hundred years ago, humans were nearly exterminated by giants. Giants are typically several stories tall, seem to have no intelligence, devour human beings and, worst of all, seem to do it for the pleasure rather than as a food source. A small percentage of humanity survived by walling themselves in a city protected by extremely high walls, even taller than the biggest of giants.Flash forward to the present and the city has not seen a giant in over 100 years. Teenage boy Eren and his foster sister Mikasa witness something horrific as the city walls are destroyed by a super giant that appears out of thin air. As the smaller giants flood the city, the two kids watch in horror as their mother is eaten alive. Eren vows that he will murder every single giant and take revenge for all of mankind.
+					<rating id="3">Rate: 9.6</rating>
+				</summary>	
+			</episodes>
+		</animation>
+	</category>
+	
+	<category>
+		<animation>
+			<title id="4">4) Ghost in the Shell</title>
+			<genre id="4">Action, Mecha, Sci-Fi, Military </genre>
+			<episodes id="4"> Episode: 52 Episodes
+				<summary id="4">In the not so distant future, mankind has advanced to a state where complete body transplants from flesh to machine is possible. This allows for great increases in both physical and cybernetic prowess and blurring the lines between the two worlds. However, criminals can also make full use of such technology, leading to new and sometimes, very dangerous crimes. In response to such innovative new methods, the Japanese Government has established Section 9, an independently operating police unit which deals with such highly sensitive crimes.Led by Daisuke Aramaki and Motoko Kusanagi, Section 9 deals with such crimes over the entire social spectrum, usually with success. However, when faced with a new A level hacker nicknamed “The Laughing Man”, the team is thrown into a dangerous cat and mouse game, following the hacker’s trail as it leaves its mark on Japan.
+					<rating id="4">Rate: 9.2</rating>
+				</summary>
+			</episodes>
+		</animation>
+	</category>
+	
+	<category>
+		<animation>
+			<title id="5">5) Naruto Shippuuden</title>
+			<genre id="5">Action, Comedy, Martial Arts, Super Power</genre>
+			<episodes id="5">Episode: On-going Episodes
+				<summary id="5">Naruto Shipuuden is the continuation of the original animated TV series Naruto.The story revolves around an older and slightly more matured Uzumaki Naruto and his quest to save his friend Uchiha Sasuke from the grips of the snake-like Shinobi, Orochimaru. After 2 and a half years Naruto finally returns to his village of Konoha, and sets about putting his ambitions to work, though it will not be easy, as He has amassed a few (more dangerous) enemies, in the likes of the shinobi organization; Akatsuki.
+					<rating id="5">Rate: 9.1</rating>
+				</summary>
+			</episodes>
+		</animation>
+	</category>
+				
+	
+	<category>
+		<animation>
+			<title id="6">6) Dragon Ball</title>
+			<genre id="6">Action, Adventure, Comedy, Martial Arts</genre>
+			<episodes id="6">Episode: 508 Episodes
+				<summary id="6">Goku is back with his new son, Gohan, but just when things are getting settled down, the adventures continue. Whether he is facing enemies such as Frieza, Cell, or Buu, Goku is proven to be an elite of his own and discovers his race, Saiyan and is able to reach Super Saiyan 3 form. He meets many new people, gaining allies and well as enemies, as he still finds time to raise a family and be the happy-go-lucky Saiyan he is.
+					<rating id="6">Rate: 9</rating>
+				</summary>
+			</episodes>
+		</animation>
+	</category>
+	
+	<category>
+		<animation>
+			<title id="7">7) Cowboy Bebop</title>
+			<genre id="7">Action, Adventure, Comedy, Drama, Sci-Fi, Space</genre>
+			<episodes id="7"> Episode: 26 Episodes
+				<summary id="7">Enter a world in the distant future, where Bounty Hunters roam the solar system. Spike and Jet, bounty hunting partners, set out on journeys in an ever struggling effort to win bounty rewards (money) to survive. While travelling, they meet up with other very interesting people. Could Faye, the beautiful and ridiculously poor gambler, Edward, the computer genius, and Ein, the engineered dog be a good addition to the group? Gun fights, martial arts and the episodic nature is sure to keep you on the edge of your seat.
+					<rating id="7">Rate: 8.8</rating>
+				</summary>
+			</episodes>
+		</animation>
+	</category>
+	
+	<category>
+		<animation>
+			<title id="8">8) Samurai Champloo</title>
+			<genre id="8">Adventure, Comedy, Samurai</genre>
+			<episodes id="8">Episode: 26 Episodes
+				<summary id="8">Mugen`s a buck wild warrior - violent, thoughtless and womanizing. Jin is a vagrant ronin - mysterious, traditional, well-mannered and very strong as well. These two fiercely independent warriors can`t be any more different from one another, yet their paths cross when Fuu, a ditzy waitress, saves them from being executed when they are arrested after a violent swordfight. Fuu convinces the two vagrant young men to help her find a mysterious samurai "who smells of sunflowers." And their journey begins. This is a story about love, friendship and courage... NOT!(synopsis taken from AniDB)
+					<rating id="8">Rate: 8.5</rating>
+				</summary>
+			</episodes>
+		</animation>
+	</category>
+	
+	<category>
+		<animation>
+			<title id="9">9) Fairy Tail</title>
+			<genre id="9">Action, Adventure, Comedy, Fantasy</genre>
+			<episodes id="9">Episode: 175 Episodes
+				<summary id="9">Lucy is a 17-year-old girl, who wants to be a full-fledged mage. One day when visiting Harujion Town, she meets Natsu, a young man who gets sick easily by any type of transportation. But Natsu isnt just any ordinary kid, he's a member of one of the world's most (in)famous mage guilds: Fairy Tail.
+					<rating id="9">Rate: 8.3</rating>
+				</summary>
+			</episodes>
+		</animation>
+	</category>
+	
+	<category>
+		<animation>
+			<title id="10">10) Gintama</title>
+			<genre id="10">Action, Comedy, Sci-Fi, Historical</genre>
+			<episodes id="10">Episode: 276 Episodes
+				<summary id="10">Sakata Gintoki is a samurai living in an era when samurais are no longer needed. To add to his troubles, oppressive aliens have moved in to invade. Gintoki lives with Kagura and Shinpachi, taking on odd jobs to make the world a better place...and to pay their rent. (Source: ANN)
+					<rating id="10">Rate: 8</rating>
+				</summary>
+			</episodes>
+		</animation>
+	</category>	
+</anime>
+
+
+
+
